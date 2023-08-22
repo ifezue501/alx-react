@@ -1,4 +1,3 @@
-#footer {
-    color: #fff;
-    background: #525252;
+body > p:last-child {
+    color:lightslategrey;
 }
