@@ -8,8 +8,6 @@
 By: Johann Kerbrat, Engineering Manager at Uber Works
 Weight: 1
 
-Project will start Aug 24, 2023 6:00 AM, must end by Aug 29, 2023 6:00 AM
-Manual QA review must be done (request it when you are done with the project)
 
 ## Resources
 Read or watch:
